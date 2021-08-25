@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, ETHER, JSBI, Pair, Percent, Price, TokenAmount } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, ETHER, JSBI, Pair, Percent, Price, TokenAmount } from '@huyc197/pancakeswap-sdk-testnet'
 import { useCallback, useMemo } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

@@ -1,7 +1,6 @@
 {
   "name": "pancake-frontend",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "analyze": "source-map-explorer 'build/static/js/*.js'",
     "start": "react-scripts start",
@@ -27,7 +26,7 @@
   "dependencies": {
     "@binance-chain/bsc-connector": "^1.0.0",
     "@ethersproject/experimental": "^5.0.1",
-    "@pancakeswap/sdk": "^2.3.2",
+    "@huyc197/pancakeswap-sdk-testnet": "^0.1.1",
     "@pancakeswap/uikit": "^0.43.0",
     "@reduxjs/toolkit": "^1.5.0",
     "@types/multicodec": "^1.0.0",
@@ -35,6 +34,7 @@
     "@types/qs": "^6.9.6",
     "@types/react": "^17.0.5",
     "@types/react-dom": "^17.0.4",
+    "@types/react-helmet": "^6.1.2",
     "@types/react-router-dom": "^5.1.5",
     "@types/react-window": "^1.8.3",
     "@types/styled-components": "^5.1.7",
@@ -64,7 +64,7 @@
     "react-datepicker": "^4.1.0",
     "react-dom": "^17.0.1",
     "react-feather": "^2.0.8",
-    "react-helmet-async": "^1.0.9",
+    "react-helmet-async": "1.0.9",
     "react-markdown": "^6.0.2",
     "react-redux": "^7.2.4",
     "react-router-dom": "^5.2.0",

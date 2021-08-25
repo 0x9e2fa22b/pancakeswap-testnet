@@ -1,5 +1,5 @@
 import React, { useCallback } from 'react'
-import { ChainId, Currency, Token } from '@pancakeswap/sdk'
+import { ChainId, Currency, Token } from '@huyc197/pancakeswap-sdk-testnet'
 import styled from 'styled-components'
 import {
   Button,

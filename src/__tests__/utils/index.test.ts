@@ -1,6 +1,6 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import { AddressZero } from '@ethersproject/constants'
-import { TokenAmount, Token, ChainId, Percent, JSBI } from '@pancakeswap/sdk'
+import { TokenAmount, Token, ChainId, Percent, JSBI } from '@huyc197/pancakeswap-sdk-testnet'
 
 import {
   getBscScanLink,

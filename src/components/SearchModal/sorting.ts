@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from '@pancakeswap/sdk'
+import { Token, TokenAmount } from '@huyc197/pancakeswap-sdk-testnet'
 import { useMemo } from 'react'
 import { useAllTokenBalances } from '../../state/wallet/hooks'
 

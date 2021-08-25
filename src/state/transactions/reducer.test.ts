@@ -1,4 +1,4 @@
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@huyc197/pancakeswap-sdk-testnet'
 import { createStore, Store } from 'redux'
 import { addTransaction, checkedTransaction, clearAllTransactions, finalizeTransaction } from './actions'
 import reducer, { initialState, TransactionState } from './reducer'

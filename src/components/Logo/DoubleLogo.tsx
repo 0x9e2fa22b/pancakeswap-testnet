@@ -1,4 +1,4 @@
-import { Currency } from '@pancakeswap/sdk'
+import { Currency } from '@huyc197/pancakeswap-sdk-testnet'
 import React from 'react'
 import styled from 'styled-components'
 import CurrencyLogo from './CurrencyLogo'
