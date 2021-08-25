@@ -1,6 +1,6 @@
 # 🥞 Pancakeswap Testnet
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7bebf1a3-be7b-4165-afd1-446256acd5e3/deploy-status)](https://app.netlify.com/sites/pancake-prod/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/34b0d650-b387-4d2b-8076-8e4b7c400424/deploy-status)](https://app.netlify.com/sites/pancake-swap-testnet/deploys)
 
 This project contains the main features of the pancake application.
 
