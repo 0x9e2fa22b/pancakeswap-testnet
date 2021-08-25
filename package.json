@@ -26,7 +26,7 @@
   "dependencies": {
     "@binance-chain/bsc-connector": "^1.0.0",
     "@ethersproject/experimental": "^5.0.1",
-    "@huyc197/pancakeswap-sdk-testnet": "^0.1.1",
+    "@huyc197/pancakeswap-sdk-testnet": "0.1.2",
     "@pancakeswap/uikit": "^0.43.0",
     "@reduxjs/toolkit": "^1.5.0",
     "@types/multicodec": "^1.0.0",
