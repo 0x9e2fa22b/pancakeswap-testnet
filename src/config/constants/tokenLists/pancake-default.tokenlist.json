@@ -21,7 +21,7 @@
     {
       "name": "PancakeSwap Token",
       "symbol": "CAKE",
-      "address": "0x850aae20099cf6d47c9b6bb417814d726e56a038",
+      "address": "0x0dE1f2e7C68ecC2a552Fa2C039C4847A74BA33f9",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
