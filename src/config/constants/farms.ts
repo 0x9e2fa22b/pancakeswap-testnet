@@ -12,6 +12,16 @@ const farms: FarmConfig[] = [
     token: tokens.cake,
     quoteToken: tokens.wbnb,
   },
+  {
+    pid: 2,
+    lpSymbol: 'BUSD-BNB LP',
+    lpAddresses: {
+      97: '0x92c2ac8bee753088089900303a4bc1173c586453',
+      56: '',
+    },
+    token: tokens.busd,
+    quoteToken: tokens.wbnb,
+  },
 ]
 
 export default farms
