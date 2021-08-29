@@ -9,8 +9,9 @@ If you want to contribute, please refer to the [contributing guidelines](./CONTR
 # Features
 
 - [x] Exchange
-- [ ] Farms
-- [ ] Pools
+- [x] Farms
+- [x] Pools
+  - [ ] Vault
 - [ ] Lottery
 - [ ] Prediction
 - [ ] Profile
