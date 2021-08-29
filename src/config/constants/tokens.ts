@@ -81,7 +81,7 @@ const tokens = {
     decimals: 18,
   },
   wbnb: {
-    symbol: 'WBNB',
+    symbol: 'wBNB',
     address: {
       56: '',
       97: '0xae13d989dac2f0debff460ac112a837c89baa7cd',
