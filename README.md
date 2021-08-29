@@ -11,7 +11,7 @@ If you want to contribute, please refer to the [contributing guidelines](./CONTR
 - [x] Exchange
 - [x] Farms
 - [x] Pools
-  - [ ] Vault
+  - [x] Vault
 - [ ] Lottery
 - [ ] Prediction
 - [ ] Profile
