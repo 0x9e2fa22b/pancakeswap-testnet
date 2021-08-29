@@ -10,7 +10,7 @@ const farms: FarmConfig[] = [
       56: '',
     },
     token: tokens.cake,
-    quoteToken: tokens.busd,
+    quoteToken: tokens.wbnb,
   },
 ]
 
