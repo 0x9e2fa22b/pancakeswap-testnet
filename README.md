@@ -12,7 +12,7 @@ If you want to contribute, please refer to the [contributing guidelines](./CONTR
 - [x] Farms
 - [x] Pools
   - [x] Vault
-- [ ] Lottery
+- [x] Lottery
 - [ ] Prediction
 - [ ] Profile
 
@@ -32,6 +32,8 @@ If you want to contribute, please refer to the [contributing guidelines](./CONTR
 - Cake Token: [0x0dE1f2e7C68ecC2a552Fa2C039C4847A74BA33f9](https://testnet.bscscan.com/address/0x0dE1f2e7C68ecC2a552Fa2C039C4847A74BA33f9)
 
 > ⚠️ Change owner of SyrupBar & Cake Token for MasterChef
+
+- Lottery [0xca59C63158e50F3d9D4e654A522DCC0Ea2A972B6](https://testnet.bscscan.com/address/0xca59C63158e50F3d9D4e654A522DCC0Ea2A972B6)
 
 - Token:
   - WBNB: [0xae13d989dac2f0debff460ac112a837c89baa7cd](https://testnet.bscscan.com/address/0xae13d989dac2f0debff460ac112a837c89baa7cd)
